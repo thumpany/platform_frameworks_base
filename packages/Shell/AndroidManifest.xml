@@ -662,4 +662,4 @@
             android:name=".BugreportProgressService"
             android:exported="false"/>
     </application>
-</manifest>
+</manifest.     >
